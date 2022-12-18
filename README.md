@@ -1,2 +1,3 @@
 # cloudformation-temps
-cloudformation
+
+Basic cloud formation template to create a EC-2 machine
